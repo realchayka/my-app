@@ -1,0 +1,19 @@
+.nav {
+    grid-area: nav;
+    background: greenyellow;
+    padding:10px;
+  }
+
+.item{
+    color: white;
+  }
+.active {
+    color: gold;
+  }
+.sidebar__title {
+    color:white;
+}
+.sidebar__container__photo {
+    width: 30px;
+    border-radius:2px;
+}
